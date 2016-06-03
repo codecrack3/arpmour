@@ -1,7 +1,8 @@
 # arpmour
 Security tool to detect arp spoofing attack. Written in Python and uses the powerful [Scapy](http://www.secdev.org/projects/scapy/doc/usage.html) library.
-
 This tool has been tested on Debian OS (e.g. Kali Linux, Ubuntu etc.)
+
+![Alt text](/screenshot/screenshot.png)
 
 ### Installation
 1. Install Python 2.7 from <https://www.python.org/downloads/>
